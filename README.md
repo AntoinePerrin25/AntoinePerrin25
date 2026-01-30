@@ -3,11 +3,16 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=antoineperrin25&label=Profile%20views&color=0e75b6&style=flat" alt="antoineperrin25" /> </p>
 
-- 🎮 I’m currently working on **a Tower Defense Game** (
+- 🎮 I’m currently working on **a Tower Defense Game** written in C with [Raylib](https://github.com/raysan5/raylib)
 
 - 👯 I’m looking to collaborate on **my open source projects :)**
 
 - 👨‍💻 I made my own VS Code Extension to ease switching booleans/values, check it out : [Checkbox Display](https://marketplace.visualstudio.com/items?itemName=AntoinePERRIN.checkbox-display)
+
+- 💚 Favorite People and their lib :
+  - [Tsoding](https://github.com/tsoding) with [Nob and others](https://github.com/tsoding/nob.h)
+  - [Raysan](https://github.com/raysan5) with [Raylib](https://github.com/raysan5/raylib)
+  - [MagicalBat](https://github.com/magicalbat)
 
 <p align="left">
 </p>
