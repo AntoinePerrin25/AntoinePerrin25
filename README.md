@@ -3,11 +3,11 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=antoineperrin25&label=Profile%20views&color=0e75b6&style=flat" alt="antoineperrin25" /> </p>
 
-- 🔭 I’m currently working on **a Tower Defense Game**
+- 🎮 I’m currently working on **a Tower Defense Game** (
 
 - 👯 I’m looking to collaborate on **my open source projects :)**
 
-- 👨‍💻 Some of my projects are available at [https://AntoinePerrin25.github.io/](https://AntoinePerrin25.github.io/)
+- 👨‍💻 I made my own VS Code Extension to ease switching booleans/values, check it out : [Checkbox Display](https://marketplace.visualstudio.com/items?itemName=AntoinePERRIN.checkbox-display)
 
 <p align="left">
 </p>
