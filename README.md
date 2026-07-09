@@ -3,7 +3,10 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=antoineperrin25&label=Profile%20views&color=0e75b6&style=flat" alt="antoineperrin25" /> </p>
 
-- 👨‍💻 I made my own VS Code Extension to ease switching booleans/values, check it out : [Checkbox Display](https://marketplace.visualstudio.com/items?itemName=AntoinePERRIN.checkbox-display)
+- Check out my projects on my [Portfolio](https://antoinep.fr/portfolio) !
+
+- 👨‍💻 I made my own VS Code Extension to ease switching booleans/values, check it out : [Checkbox Display](https://open-vsx.org/extension/antoineperrin/checkbox-display)
+or on the [Visual Studio Marketplace](https://marketplace.visualstudio.com/items?itemName=AntoinePERRIN.checkbox-display). 300+ downloads !
 
 <h3 align="left">Featured Projects</h3>
 
