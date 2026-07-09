@@ -12,40 +12,40 @@
 <h4 align="left">ClaviAR — Mixed Reality Piano Calibration</h4>
 <p align="left">Meta Quest piano prototype with ~3-second automatic keyboard calibration, procedural exercises, and a rhythm-game demo loop.</p>
 <p align="center">
-  <video src="https://raw.githubusercontent.com/AntoinePerrin25/AntoinePerrin25/refs/heads/main/public/img/claviar/claviar_preview.mp4" controls width="80%"></video>
+  <video src="./public/img/claviar/claviar_preview.mp4" controls width="80%"></video>
 </p>
 <p align="center">
-  <img src="https://raw.githubusercontent.com/AntoinePerrin25/AntoinePerrin25/refs/heads/main/public/img/claviar/claviar_gameplay.png" alt="ClaviAR gameplay" width="80%">
+  <img src="./public/img/claviar/claviar_gameplay.png" alt="ClaviAR gameplay" width="80%">
 </p>
 
 <h4 align="left">Node Factory</h4>
 <p align="left">Factory automation game in C and Raylib — place nodes, route belts, fulfill hub quests, and play scenario-driven progression.</p>
 <p align="center">
-  <img src="https://raw.githubusercontent.com/AntoinePerrin25/AntoinePerrin25/refs/heads/main/public/img/nodes_gameplay1.png" alt="Node Factory gameplay" width="80%">
+  <img src="./public/img/nodes_gameplay1.png" alt="Node Factory gameplay" width="80%">
 </p>
 
 <h4 align="left"><a href="https://github.com/AntoinePerrin25/iq-solver-pro-ai-resolver">IQ Puzzler Pro Solver</a></h4>
 <p align="left">Solver for the IQ Puzzler Pro game using Knuth's Algorithm X with optimizations.</p>
 <p align="center">
-  <img src="https://raw.githubusercontent.com/AntoinePerrin25/AntoinePerrin25/refs/heads/main/public/img/puzzler_light.png" alt="IQ Puzzler Pro Solver" width="80%">
+  <img src="./public/img/puzzler_light.png" alt="IQ Puzzler Pro Solver" width="80%">
 </p>
 
 <h4 align="left"><a href="https://marketplace.visualstudio.com/items?itemName=AntoinePERRIN.checkbox-display">Checkbox Display</a></h4>
 <p align="left">VS Code and Eclipse extension — interactive checkboxes in source files and notebooks with explorer, CodeLens, and carousel values.</p>
 <p align="center">
-  <img src="https://raw.githubusercontent.com/AntoinePerrin25/AntoinePerrin25/refs/heads/main/public/img/checkbox-explorer.png" alt="Checkbox Display extension" width="80%">
+  <img src="./public/img/checkbox-explorer.png" alt="Checkbox Display extension" width="80%">
 </p>
 
 <h4 align="left"><a href="https://github.com/AntoinePerrin25/minecraft">Minecraft (C / Raylib)</a></h4>
 <p align="left">Voxel game in C with Raylib — terrain chunks, first-person controls, and multiplayer. Cross-platform Makefile build.</p>
 <p align="center">
-  <img src="https://raw.githubusercontent.com/AntoinePerrin25/AntoinePerrin25/refs/heads/main/public/img/minecraft_512.jpg" alt="Minecraft C Raylib" width="80%">
+  <img src="./public/img/minecraft_512.jpg" alt="Minecraft C Raylib" width="80%">
 </p>
 
 <h4 align="left">Blender Scene</h4>
 <p align="left">Apartment recreation in Blender from reference photos — geometry nodes for furniture, Python space-invasion tree generation.</p>
 <p align="center">
-  <img src="https://raw.githubusercontent.com/AntoinePerrin25/AntoinePerrin25/refs/heads/main/public/img/blender/6_cuisine.jpg" alt="Blender apartment scene" width="80%">
+  <img src="./public/img/blender/6_cuisine.jpg" alt="Blender apartment scene" width="80%">
 </p>
 
 <p align="left">
